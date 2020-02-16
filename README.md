@@ -1,8 +1,12 @@
 # filtering-app
 
+
 ## Project setup
 ```
 npm install
+```
+```
+export VUE_APP_ROOT_API=https://jsonplaceholder.typicode.com/
 ```
 
 ### Compiles and hot-reloads for development
